@@ -1,4 +1,4 @@
-![Video Demo](assets/images/Deopt1.gif)
+![Video Demo](./assets/images/Deopt1.gif)
 
   
 <video width="400" controls>
