@@ -1,3 +1,8 @@
+<video width="400" controls>
+  <source src="./src/images/Deopt.mp4" type="video/mp4">
+</video>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
