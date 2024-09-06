@@ -1,7 +1,8 @@
+
+  
 <video width="400" controls>
   <source src="./src/images/Deopt.mp4" type="video/mp4">
 </video>
-<a href="src="./src/images/Deopt.mp4" target="_blank">
 
 # Getting Started with Create React App
 
